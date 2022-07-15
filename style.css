@@ -1,0 +1,25 @@
+body {
+    display: block
+}
+
+body * {
+    border: 1px solid black;
+    background: white;
+}
+
+screen {
+    height: 15rem;
+}
+
+display {
+    height: 10rem;
+}
+
+button {
+    height: 5rem;
+    width: 5rem;
+}
+
+button:hover {
+    background: #f2f2f2;
+}
